@@ -32,7 +32,7 @@ namespace Sample_SameName_Check
         private void btn_NameCheck_Click(object sender, EventArgs e)
         {
             SameName_Check NameCheck = new ();
-            NameCheck.SetColor_SameName(ref dgvPeopleList, "Name");
+            NameCheck.SetColor_SameName(ref dgvPeopleList, dgvPeopleList.Columns["Name"].Name);
         }
     }
 }
