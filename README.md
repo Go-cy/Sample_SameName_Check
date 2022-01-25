@@ -9,3 +9,7 @@
 기존 : 2중 for문 - N^2  
 
 변경 : Dictionary - 2N
+
+![image](https://user-images.githubusercontent.com/31956098/150940512-00171236-16db-48e8-89fd-b519236167d3.png)
+
+
