@@ -10,6 +10,10 @@
 
 변경 : Dictionary - 2N
 
-![image](https://user-images.githubusercontent.com/31956098/150940512-00171236-16db-48e8-89fd-b519236167d3.png)
+사용법 
+1. DataSet 눌러 이름입력
+2. Check 눌러서 동명이인 확인
 
 
+1. ![image](https://user-images.githubusercontent.com/31956098/150940512-00171236-16db-48e8-89fd-b519236167d3.png)
+2. ![image](https://user-images.githubusercontent.com/31956098/150940794-4acfdbf9-8489-4aea-bc73-06f1606172c3.png)
