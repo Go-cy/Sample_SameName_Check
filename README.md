@@ -17,10 +17,10 @@
 ---
 예시 이미지
 
-1 
+1 DataSet 눌러 이름입력
 
 ![image](https://user-images.githubusercontent.com/31956098/150940512-00171236-16db-48e8-89fd-b519236167d3.png)
 
-2
+2 Check 눌러서 동명이인 확인
 
 ![image](https://user-images.githubusercontent.com/31956098/150940794-4acfdbf9-8489-4aea-bc73-06f1606172c3.png)
